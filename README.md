@@ -1,7 +1,7 @@
 # SiNaDeF_Bot
-Search bot of users of the SINADEF system for the death of people.
-This program makes subsequent requests to the reniec biometric services service, testing the default username and password
-example: user: 12345678, password: 12345678
+* Search bot of users of the SINADEF system for the death of people.
+* This program makes subsequent requests to the reniec biometric services service, testing the default username and password
+* example: user: 12345678, password: 12345678,
 being able to access the system and edit the death data of any person.
 
 <br/>
